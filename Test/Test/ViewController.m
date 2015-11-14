@@ -42,4 +42,8 @@
     
 }
 
+-(void)shuo{
+    NSLog(@"hi");
+}
+
 @end
